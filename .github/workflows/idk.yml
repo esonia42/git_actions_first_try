@@ -1,0 +1,6 @@
+name: Build-tag-push
+on:
+  push:
+    branches: [main]
+
+jobs:
